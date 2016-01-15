@@ -18,6 +18,9 @@
     flex-grow: 1;
     overflow-y: auto;
   }
+  #messages {
+    display: none;
+  }
   .message {
     color: rgba(0, 0, 0, 0.87);
     display: block;
